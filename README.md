@@ -22,7 +22,7 @@ This software is for ethical use only.
 
 ## Support Our Vision 🌟
 
-**Donation Address (ETH/BNB/ERC20/BEP20):** `0x00fC876d03172279E04CC30E5edCE103c3d23C1A`
+
 
 ## Engage & Contribute 🌐
 
@@ -39,10 +39,6 @@ This software is for ethical use only.
 - Follow the donation procedure.
 - Add transactions to `transactions.txt`.
 - Submit pull requests.
-
-- **Issues & Ideas**: [Submit Here](https://github.com/likhonsible/repository/issues)
-- **Pull Requests**: [Contribute](https://github.com/likhonsible/repository/pulls)
-- **Wiki**: [Learn More](https://github.com/likhonsible/repository/wiki)
 
 ## Exclusive Access for Supporting Developers 🌟
 
@@ -70,13 +66,13 @@ This software is for ethical use only.
 
 - **Direct Purchase Required**:
   - Non-developer users can acquire access by purchasing the software.
-  - Visit our [Owner Accounts]([h](https://t.me/sheikhlikhon)) for more details.
+  - Visit our [Owner Accounts]([h](https://t.me/namayandeh1)) for more details.
 
 ### Stay Connected & Informed:
 
 - **Join Our Telegram**:
   - For real-time updates, support, and community interaction, join our Telegram group.
-  - Connect with us: [Join Telegram](https://t.me/ScriptersNetwork)
+  - Connect with us: [Join Telegram](https://t.me/namayandeh1)
 
 - **Questions or Support**:
   - If you have any questions or need support, our team is always here to assist.
@@ -86,12 +82,12 @@ This software is for ethical use only.
 
 ---
 
-🔗 **Buy Now**: [Donate Here](https://scripters.shop/)
+
 
 🙏 **Thank You for Believing in Our Vision and Supporting Our Journey!**
 
-- 🤖 **Telegram:** [Join Chat](https://t.me/ScriptsChats)
-- 🍃 **Author Updates:** [Follow Here](https://t.me/ScriptersNetwork)
+
+
 
 ## Special Features 💎
 
